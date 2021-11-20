@@ -1,0 +1,23 @@
+{
+	"name": "WeirdJS-Pratice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start ": "node --path=$path_name"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Mihailob5017/Weird-JS.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Mihailob5017/Weird-JS/issues"
+	},
+	"homepage": "https://github.com/Mihailob5017/Weird-JS#readme",
+	"dependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
